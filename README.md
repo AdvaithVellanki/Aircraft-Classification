@@ -28,7 +28,7 @@ This project is organized in a modular way to separate concerns and improve read
 /Aircraft_Classification/
 |
 |-- data/                     # Stores the raw and processed dataset (will be created when the code is run)
-|-- results/                  # Default directory for saved models and output plots (will be created when the code is run)
+|-- results/                  # Directory for saved models and output plots (will be created when the code is run)
 |-- src/                      # Contains all source code
 |   |-- __init__.py
 |   |-- config.py             # Main configuration file for model selection and hyperparameters

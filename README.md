@@ -59,9 +59,6 @@ This project is organized in a modular way to separate concerns and improve read
 ## Getting Started
 
 ### Prerequisites
-
--   Python 3.8+
--   `pip` and `virtualenv`
 -   [Kaggle API Key](https://www.kaggle.com/docs/api) for automatic dataset download.
 
 ### Installation

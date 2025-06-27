@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+ultralytics
+opencv-python-headless
+pandas
+scikit-learn
+seaborn
+matplotlib
+PyYAML
+kaggle
+tqdm
+resnest
